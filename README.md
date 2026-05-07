@@ -1,4 +1,4 @@
-#TP #0 - Presentacion - PdeP
+# TP #0 - Presentacion - PdeP
 
 Hola! Esta es mi presentación para el TP #0 de Paradigmas de Programación.
 - Nombre: Joaquín Javier Alegría
@@ -9,6 +9,6 @@ Decidí estudiar Ingeniería en Sistemas porque siempre me intereso lo que tenga
 
 Ademas, me parece realmente fascinante lo rapido que avanza todo lo relacionado a la Inteligencia Artificial, y me gusta estar siempre aprendendiendo sus diferentes utilidades.
 
-#Foto personal
+# Foto personal
 
 ![Error! No cargó bien la imagen. Si te aparece el error mandame un issue](fotoPresentacionPdeP.jpg)
