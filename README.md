@@ -11,4 +11,4 @@ Ademas, me parece realmente fascinante lo rapido que avanza todo lo relacionado 
 
 #Foto personal
 
-![Error! No cargó bien la imagen. Si te aparece el error mandame un issue]
+![Error! No cargó bien la imagen. Si te aparece el error mandame un issue](fotoPresentacionPdeP.jpg)
