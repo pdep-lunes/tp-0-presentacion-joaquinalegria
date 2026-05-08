@@ -9,6 +9,8 @@ Decidí estudiar Ingeniería en Sistemas porque siempre me intereso lo que tenga
 
 Ademas, me parece realmente fascinante lo rapido que avanza todo lo relacionado a la Inteligencia Artificial, y me gusta estar siempre aprendendiendo sus diferentes utilidades.
 
+En mi tiempo libre me gusta escuchar musica, y cada año me propongo conocer un par de artistas nuevo. Cualquier recomendación es mas que bienvenida!
+
 # Foto personal
 
 ![Error! No cargó bien la imagen. Si te aparece el error mandame un issue](fotoPresentacionPdeP.jpg)
