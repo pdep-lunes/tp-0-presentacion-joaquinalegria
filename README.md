@@ -9,7 +9,9 @@ Decidí estudiar Ingeniería en Sistemas porque siempre me intereso lo que tenga
 
 Ademas, me parece realmente fascinante lo rapido que avanza todo lo relacionado a la Inteligencia Artificial, y me gusta estar siempre aprendendiendo sus diferentes utilidades.
 
-En mi tiempo libre me gusta escuchar musica, y cada año me propongo conocer un par de artistas nuevo. Cualquier recomendación es mas que bienvenida!
+En mi tiempo libre me gusta escuchar musica, y cada año me propongo conocer un par de artistas nuevo. Me gusta el rap en español y los ultimos artistas que descubrí fueron Mirkins y Templo. 
+
+Igualmente, estoy abierto a descubrir nuevos generos. Cualquier recomendación es mas que bienvenida!
 
 # Foto personal
 
